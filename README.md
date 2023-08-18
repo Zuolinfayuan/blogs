@@ -12,6 +12,8 @@ Fa Yuan - Blogs 将所学的知识点总结, 主要记录着三剑客、Vue、Re
 
 - Gitee：https://gitee.com/Zuolinfayuan/blogs
 
+- Github：https://github.com/Zuolinfayuan/blogs
+
 ### 微信交流群 👨‍👨‍👦‍👦
 
 扫描二维码添加作者微信，拉大家进入群聊 🤪
