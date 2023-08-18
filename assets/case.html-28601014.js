@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,a as e,b as s}from"./app-38839a0b.js";const o={},r=e("h1",{id:"经典案例",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#经典案例","aria-hidden":"true"},"#"),s(" 经典案例")],-1),n=[r];function _(d,i){return t(),c("div",null,n)}const l=a(o,[["render",_],["__file","case.html.vue"]]);export{l as default};

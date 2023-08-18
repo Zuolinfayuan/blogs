@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-22bc12c3","path":"/case/case.html","title":"经典案例","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1692286874000,"contributors":[{"name":"fayuan","email":"fayuanai@dingtalk.com","commits":1}]},"filePathRelative":"case/case.md"}');export{a as data};
