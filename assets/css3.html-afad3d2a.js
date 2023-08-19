@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-396121c4","path":"/base/css3.html","title":"CSS 3","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1692330505000,"contributors":[{"name":"fayuan","email":"fayuanai@dingtalk.com","commits":1}]},"filePathRelative":"base/css3.md"}');export{a as data};
