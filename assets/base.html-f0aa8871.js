@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as s,a as e,b as c}from"./app-140a9772.js";const o={},r=e("h1",{id:"三剑客",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#三剑客","aria-hidden":"true"},"#"),c(" 三剑客")],-1),n=[r];function _(d,i){return t(),s("div",null,n)}const l=a(o,[["render",_],["__file","base.html.vue"]]);export{l as default};

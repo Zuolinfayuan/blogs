@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6f722e5a","path":"/Vue/Vuex3.html","title":"Vuex 3.0","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1692447665000,"contributors":[{"name":"fayuan","email":"fayuanai@dingtalk.com","commits":1}]},"filePathRelative":"Vue/Vuex3.md"}');export{e as data};

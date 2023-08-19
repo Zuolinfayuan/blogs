@@ -1,1 +1,0 @@
-import{_ as s,o as c,c as t,a as e,b as a}from"./app-8f68cf33.js";const o={},r=e("h1",{id:"css-3",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#css-3","aria-hidden":"true"},"#"),a(" CSS 3")],-1),n=[r];function _(d,i){return c(),t("div",null,n)}const l=s(o,[["render",_],["__file","css3.html.vue"]]);export{l as default};

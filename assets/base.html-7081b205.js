@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-e310b87c","path":"/case/base.html","title":"三剑客","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1692445807000,"contributors":[{"name":"fayuan","email":"fayuanai@dingtalk.com","commits":1}]},"filePathRelative":"case/base.md"}');export{a as data};

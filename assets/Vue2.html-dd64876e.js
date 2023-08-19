@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-101a350b","path":"/Vue/Vue2.html","title":"Vue2","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1692448943000,"contributors":[{"name":"fayuan","email":"fayuanai@dingtalk.com","commits":7}]},"filePathRelative":"Vue/Vue2.md"}');export{a as data};
